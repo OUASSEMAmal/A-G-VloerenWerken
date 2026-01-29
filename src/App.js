@@ -1,10 +1,8 @@
-import React, { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import AuthForm from './components/AuthForm';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import AuthForm from "./components/AuthForm";
 
 function App() {
-    const [user, setUser] = useState(null);
-
     return (
         <Router>
             <Routes>
@@ -15,6 +13,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
