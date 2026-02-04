@@ -124,8 +124,8 @@ function AuthForm() {
                 <div className="hero-content">
                     <h2>Uw partner in vloer- en bouwwerken</h2>
                     <p>
-                        Professionele oplossingen met duurzame materialen en erkend
-                        vakmanschap in heel België.
+                        Professionele oplossingen met duurzame materialen en erkend vakmanschap in heel België.
+                        Professionele vloerwerken, badkamerrenovatie, terrassen & gevelwerken met duurzame materialen in heel België.
                     </p>
 
                     <div className="hero-actions">
